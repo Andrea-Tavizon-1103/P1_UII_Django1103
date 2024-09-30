@@ -1,0 +1,14 @@
+- Crear aplicacion tavizonclase_app
+- Comando --> python manage.py startapp tavizonclase_app
+- Creamos el archivo urls.py en tavizonclase_app
+- ![alt text](image.png)
+- En setting.py de P2clase1103
+- ![alt text](image-1.png)
+-  En urls.py de P2clase1103
+- ![alt text](image-2.png)
+- En views.py en tavizon_app 
+- ![alt text](image-3.png)
+- En urls.py P2clase1103
+- ![alt text](image-4.png)
+- En urls.py tavizonclasse_app
+- ![alt text](image-5.png)
